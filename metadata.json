@@ -1,0 +1,5 @@
+{
+  "name": "GÊNIO POST - Criador e Editor de Posts com IA",
+  "description": "Uma aplicação web para gerar posts únicos ou em carrossel para redes sociais a partir de um simples comando, completos com imagens e textos profissionais. Também permite que os usuários editem imagens geradas ou carregadas usando comandos de texto.",
+  "requestFramePermissions": []
+}
